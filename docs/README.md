@@ -1,0 +1,2 @@
+# Learn Christianity Website
+Asslamu 'Alaikum! This repository contains the source code of the Learn Islam website. The primary purpose of this website to share the perspective of a Muslim as we explore the Bible. Peace to you brother/sister!
